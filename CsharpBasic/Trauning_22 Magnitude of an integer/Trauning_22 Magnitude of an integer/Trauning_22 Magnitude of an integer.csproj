@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Trauning_22_Magnitude_of_an_integer</RootNamespace>
+  </PropertyGroup>
+
+</Project>

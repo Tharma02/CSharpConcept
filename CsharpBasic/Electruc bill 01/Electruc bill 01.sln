@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electruc bill 01", "Electruc bill 01\Electruc bill 01.csproj", "{7A384639-EAE9-4EEB-A08A-398E3D38541F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A384639-EAE9-4EEB-A08A-398E3D38541F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A384639-EAE9-4EEB-A08A-398E3D38541F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A384639-EAE9-4EEB-A08A-398E3D38541F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A384639-EAE9-4EEB-A08A-398E3D38541F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D03AE8D-4638-463D-B213-599294FAAC46}
+	EndGlobalSection
+EndGlobal

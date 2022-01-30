@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trauning_22 Magnitude of an integer", "Trauning_22 Magnitude of an integer\Trauning_22 Magnitude of an integer.csproj", "{26D3D7B2-E523-4CF4-BD03-45FF6E4856A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training _23 left shift operator", "..\Training _23 left shift operator\Training _23 left shift operator.csproj", "{2DE59743-68EE-4582-AF5F-E1D02DBFD94D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26D3D7B2-E523-4CF4-BD03-45FF6E4856A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D3D7B2-E523-4CF4-BD03-45FF6E4856A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D3D7B2-E523-4CF4-BD03-45FF6E4856A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D3D7B2-E523-4CF4-BD03-45FF6E4856A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE59743-68EE-4582-AF5F-E1D02DBFD94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE59743-68EE-4582-AF5F-E1D02DBFD94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE59743-68EE-4582-AF5F-E1D02DBFD94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE59743-68EE-4582-AF5F-E1D02DBFD94D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88CD55E1-3BAD-4D76-BFF9-9EC74F300514}
+	EndGlobalSection
+EndGlobal
